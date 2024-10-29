@@ -1,4 +1,7 @@
 # Full-stack Web Development Internship
+Name - Raj Maurya
+University Roll No- 2300290100196
+section-3C
 
 Welcome to the Git repository for the Full-stack Web Development Internship. This program is designed to equip students with proficiency in  building dynamic, user-friendly interfaces using HTML, CSS, JavaScript, and frameworks like React. It also includes implementing server-side logic with technologies such as Node.js and managing databases with MongoDB. Interns often work on projects like e-commerce sites and online portfolios, ensuring seamless user experiences across various devices through responsive design techniques.
 
